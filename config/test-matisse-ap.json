@@ -4,7 +4,7 @@
   "type": "ap",
   "eap": "OSLO-Mobiliteit-Trips-En-Aanbod-Test.EAP",
   "diagram": "OSLO-Mobiliteit-Trips-En-Aanbod-Applicatieprofiel-Test",
-  "template": "mobiliteit-trips-en-aanbod-ap-Test.j2",
+  "template": "mobiliteit-trips-en-aanbod-ap-test.j2",
   "title": "AP Test Matisse",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2021-02-02",
