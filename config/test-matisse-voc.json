@@ -1,0 +1,18 @@
+[
+{
+  "name": "voc-test-matisse",
+  "type": "voc",
+  "prefix": "mobiliteit",
+  "eap": "OSLO-Mobiliteit-Trips-En-Aanbod-Test.EAP",
+  "diagram": "OSLO-Mobiliteit-Trips-En-Aanbod-Test",
+  "template": "mobiliteit-trips-en-aanbod-voc-Test.j2",
+  "title": "VOC Test Matisse",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+  "publication-date": "2021-02-02",
+  "license" : "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "Mobiliteit",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteit-trips-en-aanbod/issues",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/erkende-standaarden/vocabularium-mobiliteit-trips-en-aanbod/index.html"
+}
+]
