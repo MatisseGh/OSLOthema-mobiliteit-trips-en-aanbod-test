@@ -12,7 +12,7 @@
   "contributors-file": "stakeholders.csv",
   "contributors-column": "Mobiliteit",
   "site": "site-skeleton/test-matisse-ap",
-  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-mobiliteit-trips-en-aanbod/issues",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/erkende-standaarden/applicatieprofiel-mobiliteit-trips-en-aanbod/index.html"
+  "feedbackurl": "https://github.com/MatisseGh/test-matisse-oslo/issues",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden"
 }
 ]
