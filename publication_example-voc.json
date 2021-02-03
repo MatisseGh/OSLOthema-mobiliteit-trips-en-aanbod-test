@@ -1,3 +1,9 @@
+[
+{
+   "urlref": "/doc/vocabularium/test-matisse/",
+   "seealso": "/doc/vocabularium/test-matisse/ontwerpstandaard/2021-02-04",
+   "type": "voc"
+},
 {
    "urlref": "/doc/vocabularium/test-matisse/ontwerpstandaard/2021-02-04",
    "repository": "https://github.com/MatisseGh/test-matisse-oslo",
@@ -8,3 +14,4 @@
       "prev": "/doc/vocabularium/test-matisse/ontwerpstandaard/2021-02-03"
    }
 }
+]
