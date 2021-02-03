@@ -4,5 +4,7 @@
    "branchtag" : "ontwerp-2021-02-04",
    "name" : "voc-test-matisse",
    "filename" : "config/test-matisse-voc.json",
-   "navigation" : {}
+   "navigation": {
+      "prev": "/doc/vocabularium/test-matisse/ontwerpstandaard/2021-02-03"
+   }
 }
